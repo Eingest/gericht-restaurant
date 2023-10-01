@@ -4,6 +4,8 @@ import { MdOutlineRestaurantMenu } from "react-icons/md";
 import images from "../../constants/images";
 import "./Navbar.css";
 
+//BEM -> Block - Element - Modifier
+
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = React.useState(false);
   return (
