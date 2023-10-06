@@ -21,10 +21,9 @@ const Chef = () => (
           </p>
         </div>
         <p className="p__opensans">
-          {" "}
           auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
           Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-          lectus eu. Congue iaculis integer curabitur semper sit nunc.{" "}
+          lectus eu. Congue iaculis integer curabitur semper sit nunc.
         </p>
       </div>
 
